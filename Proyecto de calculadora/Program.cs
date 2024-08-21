@@ -2,7 +2,7 @@
 using System.ComponentModel.Design;
 class Mercado
 {
-    static void Main()
+    static void Main(string[] args)
     {
         Console.WriteLine("Bienvenidos a nuestro Mercado El Corral");
         Console.WriteLine("Pon Tu Nombre Por Favor");
