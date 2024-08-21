@@ -12,7 +12,7 @@ class Mercado
         Console.WriteLine("Elija el Producto que desee");
         Console.WriteLine("1.Carnes");
         Console.WriteLine("2.Lacteos");
-        Console.WriteLine("3.Granos Basicos");
+        Console.WriteLine("3.Granos Basicoss");
         string categoria = Console.ReadLine();
 
         if (categoria == "1")
